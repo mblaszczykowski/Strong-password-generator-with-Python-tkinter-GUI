@@ -28,7 +28,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screen.png)
+![Example screenshot](./img_for_readme/screen.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
